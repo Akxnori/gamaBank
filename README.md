@@ -1,6 +1,6 @@
 # 💳 Gama Bank - Caixa Eletrônico em C
 
-**Gama Bank** é um projeto de um **aplicativo de caixa eletrônico**, desenvolvido na linguagem **C**, iniciado em **23 de maio de 2025**. O objetivo principal é simular um sistema bancário básico que permite ao usuário realizar operações simples de forma segura e prática via terminal.
+**Gama Bank** é um projeto de um **aplicativo de caixa eletrônico**, desenvolvido na linguagem **C**, iniciado em **23 de maio de 2025**. O objetivo principal é simular um sistema bancário básico que permite ao usuário realizar operações simples de forma segura e prática via terminal. Sua versão 1.0 será liberada oficialmente no dia 13/06/2025!
 
 ## 📌 Funcionalidades
 
