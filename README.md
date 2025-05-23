@@ -6,19 +6,19 @@
 
 O sistema implementa as seguintes funcionalidades:
 
-- 🔐 **Autenticação de Login**  
+- 🔐 **Autenticação de Login**  Desenvolvido por: Alysson Rebouças Borges
   Verificação de login e senha para garantir o acesso seguro à conta do usuário.
 
-- 💰 **Consulta de Saldo**  
+- 💰 **Consulta de Saldo**  Desenvolvido por : Davi Lucas Rodrigues
   Exibe o saldo atual disponível na conta.
 
-- 💸 **Saque**  
+- 💸 **Saque**  Desenvolvido: Thiago Cerqueira dos Santos
   Permite realizar saques com validação do saldo para evitar valores negativos.
 
-- 💵 **Depósito**  
+- 💵 **Depósito**  Henrique Duarte Rodrigues
   Adiciona valores à conta do usuário.
 
-- 🧾 **Histórico de Transações**  
+- 🧾 **Histórico de Transações**  Alexandre Junior Fernandes
   Armazena e exibe as operações realizadas (saques, depósitos, consultas).
 
 ## 🚀 Como Executar
