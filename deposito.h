@@ -1,7 +1,8 @@
 //Henrique
 #ifndef DEPOSITO_H
 #define DEPOSITO_H
+#include "contas.h"
 
-void depositar(int idUsuario, float valor);
+void realizarDeposito(Conta* conta);
 
 #endif
